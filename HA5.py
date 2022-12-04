@@ -1,12 +1,9 @@
 import numpy as np
 import math
 import matplotlib.pyplot as plt
-#from scipy.constants import G
 from numpy import linalg as LA
-#import matplotlib.animation as animation
 import time
 from IPython import display
-
 
 #Erste Programmieraufgabe 
 
