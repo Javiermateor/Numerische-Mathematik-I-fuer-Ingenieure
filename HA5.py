@@ -44,7 +44,7 @@ def loeservergleich(h):
     plt.rcParams["figure.figsize"] = (15,15)
     plt.show()
 
-# #Test der Funktion
+# #Test der ersten Funktion
 loeservergleich(0.5)
 
 #Zweite Programmieraufgabe 
@@ -112,5 +112,7 @@ x1 = -1
 x2= 1
 p= 1
 h = 0.01
+
+#Test der zweiten Funktion
 
 doppelsternn(m1,m2,x1,x2,p,h)
